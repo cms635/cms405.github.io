@@ -1,8 +1,9 @@
 ---
 layout: post
-published: false
-category: updates
+published: true
+category: people
 title: Bernice Sun
+author: Bernice Sun
 ---
 ## A New Post
 
