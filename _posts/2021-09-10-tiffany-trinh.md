@@ -1,8 +1,9 @@
 ---
 layout: post
-published: false
-category: updates
+published: true
+category: people
 title: Tiffany Trinh
+author: Tiffany Trinh
 ---
 ## Tiffany Trinh
 
