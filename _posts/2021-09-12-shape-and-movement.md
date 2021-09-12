@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-category: updates
+category: commentary
 title: 'Shape and Movement '
 author: Jumana Almahmoud
 tags:
