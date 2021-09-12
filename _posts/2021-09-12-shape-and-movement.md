@@ -25,10 +25,14 @@ To express this element more tangibly, let's go back to the counselors in the an
 ![2D in 3D environment ](https://lumiere-a.akamaihd.net/v1/images/107e_9781452179810_e53521a1.jpeg)
 Figure 3
 
+
+
+
+---
 ## References
 Dondis, Donis A. A Primer of Visual Literacy. Cambridge, MA, USA: MIT Press, 1973.
 
 ## Image Sources
-fig1: https://i.pinimg.com/originals
-fig2: https://bloximages.newyork1.vip.townnews.com/
-fig3: https://lumiere-a.akamaihd.net
+- fig1: https://i.pinimg.com/originals
+- fig2: https://bloximages.newyork1.vip.townnews.com/
+- fig3: https://lumiere-a.akamaihd.net
