@@ -1,10 +1,11 @@
 ---
 layout: post
-published: false
-category: updates
+published: true
+category: commentary
 title: Color_Movement_Viviana
-author: ''
-tags: ''
+author: Viviana Rivera
+tags:
+  - Week 1
 ---
 ## A New Post
 
