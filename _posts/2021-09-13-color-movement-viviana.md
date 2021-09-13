@@ -8,9 +8,11 @@ tags:
   - Week 1
 ---
 
-#Color and Movement
+#
+Color and Movement
 
-##In today’s discussion, I wanted to highlight movement and color as two important elements of visual communication. Dondis describes movement as one of the most dominant visual forces in the human experience. He goes on to say that the implied action in fixed and unmoving pieces allow us to identify rhythm within them and categorize them as dynamic. Moreover, Dondis explains that colors have the strongest affinity to emotions. He describes color as having three dimensions: hue, saturation, and brightness. Hue being the color itself, saturation the relative purity of the hue in relation to gray, and brightness the scale of light to dark. 
+##
+In today’s discussion, I wanted to highlight movement and color as two important elements of visual communication. Dondis describes movement as one of the most dominant visual forces in the human experience. He goes on to say that the implied action in fixed and unmoving pieces allow us to identify rhythm within them and categorize them as dynamic. Moreover, Dondis explains that colors have the strongest affinity to emotions. He describes color as having three dimensions: hue, saturation, and brightness. Hue being the color itself, saturation the relative purity of the hue in relation to gray, and brightness the scale of light to dark. 
 
 ![bombadancer.jpg]({{site.baseurl}}/assets/bombadancer.jpg)
 
