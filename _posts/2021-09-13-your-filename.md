@@ -1,10 +1,11 @@
 ---
 layout: post
 published: false
-category: updates
+category: commentary
 title: The Line and Color
-author: ''
-tags: ''
+author: Susanna Chen
+tags:
+  - Week 1
 ---
 **The Line** 
 
