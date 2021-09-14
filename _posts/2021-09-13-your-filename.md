@@ -2,16 +2,10 @@
 layout: post
 published: false
 category: updates
-title: ''
+title: The Line and Color
 author: ''
 tags: ''
 ---
-
-In this chapter, Dondis discusses the basic elements of visual communication, including the dot, the 
-line, shape, color, texture, and others. Pick two of these elements and briefly discuss - in about two 
-paragraphs - their core features and relevance for visual communication. If possible support your 
-comments with example(s) that express these elements clearly. 
-
 **The Line** 
 
 The line is one step above in elemental complexity from the dot, imbuing it with more suggestive capability in visual design. Although often conceived in terms of its more linear qualities when used in technical disciplines, the line's usage is not bound by clearly defined rules. It is a creative tool which may be employed for juxtaposition, texture, movement, etc., clearly conveying information by stripping design to its most skeletal meaning. The sketches of William Steig, oftentimes almost grotesque in nature, demonstrate the capacity of the line in conjuring the mood of a fantasy scene as well as defining character personalities (as seen in many of Steig's picture book drawing -- most famously, Shrek). In the picture below, a group of clowns dance merrily to the music of a chicken and dog. The drawing seems a bit crude at first glance. However, its beauty lies not in a demonstration of technical acumen but in the creation of distinct personalities for each character from each facetious linestroke.
