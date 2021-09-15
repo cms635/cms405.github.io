@@ -2,7 +2,7 @@
 layout: post
 published: true
 category: commentary
-title: Selfie and Self Expression
+title: zSelfie and Self Expression
 author: Susanna Chen
 tags:
   - Week 2
