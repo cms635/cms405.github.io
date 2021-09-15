@@ -1,8 +1,11 @@
 ---
 layout: post
-published: false
-category: updates
+published: true
+category: commentary
 title: Texture and Dimension - Dondis
+author: Tiffany Trinh
+tags:
+  - Week 1
 ---
 ### Texture
 Unlike the other elements, texture is the visual element that often suggests the qualities of touch, another sense. Texture can be appreciated by either sight or touch or both together, but the visual and tactile elements, while similar in meaning, differ in value. This element can be emulated through small changes in a material's surface, but modern societal norms have choked the usage of our tactile sense, causing most people to understand that art must be seen, not touched, like the expensive paintings in an art gallery. Thus, texture has generally been reduced to the illusion, the implication of touch, as shown below. We cannot touch this image, but we can make assumptions about how it would feel beneath our fingers.
