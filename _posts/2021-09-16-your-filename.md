@@ -2,7 +2,7 @@
 layout: post
 published: true
 category: commentary
-title: ''
+title: Concept of self and development of symbols
 author: Hayley Ye
 tags:
   - Week 2
