@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 category: commentary
 title: 'Renaissance Reflections: Capturing the Self'
 author: Daniel Zhang
