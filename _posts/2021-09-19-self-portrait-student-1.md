@@ -5,4 +5,4 @@ category: updates
 title: Self-portrait - Student 1
 author: Kurt Fendt
 ---
-![]({{site.baseurl}}/assets/CMS_405_Self%20Portrait.png)
+![CMS_405_Self Portrait 1.png]({{site.baseurl}}/assets/CMS_405_Self Portrait 1.png)
