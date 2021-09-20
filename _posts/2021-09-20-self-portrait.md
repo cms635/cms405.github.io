@@ -1,8 +1,8 @@
 ---
 layout: post
-published: false
+published: true
 category: updates
-title: Self-Portrait
-author: Ethan Nevidomsky
+title: Self-portrait - Student 8
+author: Student 8
 ---
 ![selfportrait.png]({{site.baseurl}}/assets/selfportrait.png)
