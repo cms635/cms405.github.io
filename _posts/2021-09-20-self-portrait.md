@@ -1,6 +1,6 @@
 ---
 layout: post
-published: true
+published: false
 category: updates
 title: Self-Portrait
 author: Ethan Nevidomsky
