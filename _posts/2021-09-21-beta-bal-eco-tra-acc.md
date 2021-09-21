@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-category: updates
+category: commentary
 title: 'BETA (Bal,Eco,Tra,Acc)'
 author: Emelie Eldracher
 tags:
