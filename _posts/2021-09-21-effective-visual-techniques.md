@@ -1,14 +1,12 @@
 ---
 layout: post
-published: false
+published: true
 category: commentary
 title: Effective Visual Techniques
 tags:
   - Week 3
 author: Ethan Nevidomsky
 ---
+In this Dondis reading, what I found the most striking in his writing before the breakdown of the many techniques was his discussions on how the form assists and transmits content, and the shapes and colors directly translate to emotions. Using this framework, it will be helpful to analyze design both on its visual appeal along with its ability to convey its message in a "what you see is what you get sense" before any of the actual content is transmitted. 
 
-
-In this chapter, Dondis discusses the visual techniques for effective communication. He/she uses a
-number of contrasting principles in order to explain various approaches. Pick four of those techniques
-and describe why they appeal to you and comment on them in your Github post. 
+Of the visual design elements, I was most drawn to transparency/opacity, unity/fragmentation, balance/instability, and predictability/spontaneity. Transparency and opacity was compelling one that I don't see applied too often in most visual design, but I apply a lot in my own work. Because most computer graphics are generally sharp but I enjoy trying to make my images more naturalistic, I use a lot of layered transparency to allow textures and subtlety to build up. Unity and fragmentation appeals to me mostly because it's not something I often think about when putting elements together, as visual design always feels like an effort to try and make everything a unified whole. However, occasionally embracing fragmentation enables a whole new world of opportunities for placement and eye-catching design that I want to take into account more in my work. Balance and instability is fun to play with because we often think of them only as applied to real objects, but there's still a strong sense of visual balance at play between all objects. It seems interesting to try and play with scale and transformations between every object in a given design to see where tension can be created with instability and which objects are better off simply being balanced. Predictability and spontaneity were exciting because of the energy that spontaneity can bring into the work. Predictability is often needed as the grounding, so viewers know what to expect and how to interpret incoming visual information, but throwing off their expectations with spontaneity is what I dream for as a designer, and hope to be able to build skills in.
