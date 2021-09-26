@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-category: updates
+category: commentary
 title: Semiotic Morphisms
 author: Susanna Chen
 tags:
