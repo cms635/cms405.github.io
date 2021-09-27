@@ -1,0 +1,8 @@
+---
+layout: post
+published: true
+category: updates
+title: Revised Self-Portrait - Hayley Ye
+author: Hayley Ye
+---
+![]({{site.baseurl}}/assets/Self_Portrait%202.png)![Self_Portrait 2.png]({{site.baseurl}}/assets/Self_Portrait 2.png)
