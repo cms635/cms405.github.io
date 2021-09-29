@@ -15,7 +15,7 @@ In Jan van Eyck’s painting "Arnolfini Portrait", though it is a 2 dimensional 
 
 ![arnolfini.png]({{site.baseurl}}/assets/arnolfini.png)
 
-## Dimensions
+## Dimension
 
 Like texture, dimension aims to represent the qualities of three-dimensions on a two-dimensional visual format. Since dimension only actually exists in the real world, in art, dimension is frequently dependent on illusions and implying depth with the help of our two eyes, which create stereoptic sight. Some of these techniques include manipulating light and shade through "chiaroscuro" to produce depth, or by using vanishing points to follow the many rules of perspective and how large objects should be if its a certain distance away.
 
