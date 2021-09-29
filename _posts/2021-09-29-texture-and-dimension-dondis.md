@@ -3,7 +3,7 @@ layout: post
 published: true
 category: commentary
 title: Texture and Dimension - Dondis
-author: Ann Zhang
+author: Annie Zhang
 tags:
   - Week 1
 ---
@@ -22,4 +22,3 @@ Like texture, dimension aims to represent the qualities of three-dimensions on a
 One example of techniques for dimension is Pablo Picasso's cubist style—this is his painting called "Portrait of Dora Maar". Picasso replicates the 3-dimensional person and environment onto a 2-dimensional plane in a way that looks like multiple angles/perspectives of the face all displayed at once. In a sense, Picasso wasn't intent on creating a convincing illusion of the third dimension, but often painted on a flat canvas and strongly suggested a third dimension.
 
 ![doramaar.png]({{site.baseurl}}/assets/doramaar.png)
-
