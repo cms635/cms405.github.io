@@ -1,9 +1,7 @@
 ---
 layout: post
-published: false
+published: true
 category: updates
 title: Untitled
-author: ''
-tags: ''
 ---
 ![portrait.jpg]({{site.baseurl}}/assets/portrait.jpg)
