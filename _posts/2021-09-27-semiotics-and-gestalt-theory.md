@@ -3,7 +3,7 @@ layout: post
 published: true
 category: commentary
 title: Semiotics and Gestalt Theory
-author: Ann Zhang
+author: Annie Zhang
 tags:
   - Week 4
 ---
