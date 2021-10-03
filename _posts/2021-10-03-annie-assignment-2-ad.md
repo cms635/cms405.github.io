@@ -20,8 +20,5 @@ I made many different versions of this assignment, including one version that is
 ### Reference Images
 ![a2_ref3.jpeg]({{site.baseurl}}/assets/a2_ref3.jpeg)
 ![Screen Shot 2021-10-03 at 4.19.54 PM.png]({{site.baseurl}}/assets/Screen Shot 2021-10-03 at 4.19.54 PM.png)
-
-### Alternative reference + idea:
 ![a2_ref1.png]({{site.baseurl}}/assets/a2_ref1.png)
-![Frame 2.png]({{site.baseurl}}/assets/Frame 2.png)
 
