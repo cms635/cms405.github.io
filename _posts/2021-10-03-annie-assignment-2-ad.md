@@ -17,8 +17,11 @@ Additionally, I noticed that in some apple billboard ads, they will have a link 
 
 I made many different versions of this assignment, including one version that is inspired by Apple's "Shot on iPhone" campaign where I wanted to display the perspective from the front facing camera of an iPad and show a child's screen addiction close-up; however, I could not find a photo from that perspective that I could use.
 
-### Reference Images
+#### Reference Images
 ![a2_ref3.jpeg]({{site.baseurl}}/assets/a2_ref3.jpeg)
 ![Screen Shot 2021-10-03 at 4.19.54 PM.png]({{site.baseurl}}/assets/Screen Shot 2021-10-03 at 4.19.54 PM.png)
+
+#### Alternative reference + idea:
 ![a2_ref1.png]({{site.baseurl}}/assets/a2_ref1.png)
+![Frame 2.png]({{site.baseurl}}/assets/Frame 2.png)
 
