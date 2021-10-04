@@ -12,6 +12,5 @@ I first looked through a series of Airbnb ads. Their marketing is done in collec
 
 
 I chose a somewhat colorful photo of a set of buildings in Brooklyn, an area that is known to be a hub of housing displacement. As I wanted to use this image as a background for white text, I lowered its brightness. I further increased the vibrancy and saturation of the image in order to convey a sense of almost saccharine and disingenuous happiness to play off the joyful but cost effective getaways Airbnb tries to market. I further manipulated Airbnb's logo "Belong Anywhere" to be "Belong Nowhere" in reference to the company's complicity in exacerbating housing insecurity and homelessness.
-
 ![design1.png]({{site.baseurl}}/assets/design1.png)
 ![design3.png]({{site.baseurl}}/assets/design3.png)
