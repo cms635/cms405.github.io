@@ -1,8 +1,9 @@
 ---
 layout: post
-published: false
+published: true
 category: updates
 title: design assignment
+author: Susanna Chen
 ---
 I chose to focus on the often unrecognized harm companies which provide suppressed prices for goods and services by connecting the provider and consumer directly, more specifically Airbnb, have on local economies and low-income populations. I first read through some articles on the effect of "gig-type" services (e.g. Instacart, Ubereats, Airbnb, etc.) have in exacerbating the poor economic condition of rooted citizens in a community. The exploitative practices of rideshare companies on their workers have already been well-documented. However, we often overlook the seemingly innocuous consequences of partaking in a service such as Airbnb on the local housing market as these issues are much easier to sweep under the rug.
 
