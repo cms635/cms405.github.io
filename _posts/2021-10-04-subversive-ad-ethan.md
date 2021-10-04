@@ -8,7 +8,8 @@ author: Ethan Nevidomsky
 
 For my design, I decided to focus on Uber's exploitative labor practices and the bad dynamic it creates between drivers and users where the drivers have nearly no power. Because they are at risk of losing their job if their rating drops too low, they are almost fully beholden to the user and the algorithm serving them rides. 
 
-![poster.png]({{site.baseurl}}/assets/poster.png)
+![Screen Shot 2021-10-04 at 3.02.39 AM.png]({{site.baseurl}}/assets/Screen Shot 2021-10-04 at 3.02.39 AM.png)
+
 
 Some of the advertisements which appeal the most to me are relatively flat and simplistic tech ads, so I tried to emulate some of them through this design. I also wanted to draw inspiration from Uber itself, as despite disagreeing with their business model, I think their design language is professional and using its credibility to benefit this subversive ad seems smart. This was primarily done through the use of its font, but also the relatively black and white color scheme was chosen to intentionally mimic.
 
@@ -21,4 +22,3 @@ Despite lifting from Uber's design language, because the assignment wanted us to
 
 ![poster.png]({{site.baseurl}}/assets/poster.png)
 ![Amazonad.png]({{site.baseurl}}/assets/Amazonad.png)
-
