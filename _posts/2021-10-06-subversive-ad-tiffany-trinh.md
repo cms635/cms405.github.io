@@ -19,4 +19,5 @@ I wanted to illustrate this deceit with my subversive ad. In essence, Robinhood 
 
 ![The end of test driving](https://www.thesfegotist.com/wp-content/uploads/sites/5/2019/01/robinhood1BEST.jpg)
 
+My entire design process can be found here: [Design Process PDF](https://drive.google.com/file/d/1XlXUGcGNcmvwUK1LhOhEYmdoRg54p1oq/view?usp=sharing)
 
