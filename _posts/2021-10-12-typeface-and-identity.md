@@ -5,6 +5,7 @@ category: commentary
 title: Typeface and Identity
 tags:
   - Week 6
+author: Alison Lanier
 ---
 
 
