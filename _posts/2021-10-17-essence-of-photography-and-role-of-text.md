@@ -1,0 +1,12 @@
+---
+layout: post
+published: true
+category: commentary
+title: Essence of Photography and Role of Text
+author: Daniel Zhang
+tags:
+  - Week 7
+---
+In this week’s discussion, I’ll be focusing on Roland Barthes’ Camera Lucida (Chapters 5-10). I was particularly struck by the section where Roland discusses his journey to learning “at all costs, what Photography was ‘in itself.’” It is quite interesting that Roland humanizes photography, as if to imagine it as a distinct entity who needs to be understood. Additionally, Roland adds to that how a specific photograph is never immediately or generally distinguished from its referent, however instead deeper thought or reflection is needed to contextualize the photograph with its greater surroundings. This alludes to our broader discussion of the importance of contextualization as found in McCloud or the Dondis’ readings, where a myriad form of media have a predisposition to a certain interpretation. One question I had was whether Roland would still consider “candid” photos as part of this greater “transformation” in advance of an image. He argues that there is a certain degree of inauthenticity/imposture he suffers in the face of photography, however candid photos seem to walk a fine line with his understandings. 
+
+Adding to this discussion, Jochen Gerz provides a further nuanced take on the interplay between photography and text. Upon first viewing, Gerz’ work seemed to display the “normalcies of daily lifestyle.” However, upon reading the accompanied text, I gained a deeper understanding of the particular moment captured by Gerz’’s work. This gave me a much greater appreciation for the work that would have otherwise gone unrequited. A series of his photos that particularly caught my attention was his series on individuals viewing the Mona Lisa. It is unclear at first glance whether this was a series of attempts trying to capture the Mona Lisa at the Louvre, or rather photography intended to capture the people surrounding the artwork. The associated text seems to suggest the latter, where he aimed at capturing the awe and enamored nature of individuals viewing the painting for the first time. Overall, it seems (in this particular piece), text serves as more as an accompaniment that provides further contextualization for the piece in contrast to other forms of media (ie. print advertisements) where text is an integral aspect of the design considerations.
