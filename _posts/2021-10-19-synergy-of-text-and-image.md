@@ -1,0 +1,8 @@
+---
+layout: post
+published: true
+category: commentary
+title: Synergy of Text and Image
+author: Daniel Zhang
+---
+In today’s discussion, I’ll be focusing on Chapter 6 of Scott McCloud’s “Understanding Comics.” First and foremost, I thought the chapter was beautifully written, with the images powerfully complementing the associated text (and vice versa). McCloud begins by abstracting comics as a sort of orphan child in the greater scheme of media, constantly alienated and seen as a stepping stone toward other media forms. What I resonated most was his description of how comics have “firmly identified with the art of storytelling,” where words and pictures intertwine to tell a greater story than any individual component could alone. One particular takeaway I got was the importance of conveying one’s desired goal when incorporating both text and images, specifically through identifying which broader category to which words/pictures combine to portray (Word-specific, picture-specific, duo-specific, additive combination, interdependent, etc.). For instance, I dealt with a strikingly similar situation when deciding on what role text should play in my subversive advertising. In my first draft, I embraced what McCloud what consider “duo-specific,” where the words and picture sent essentially the same message. However, in my final draft, I aimed to make it leverage a more “additive combination approach,” where the words served to amplify and elaborate on the associated image. Finally, one additional take-away I got from the text was the how only showing fragments of a particular scene or text can provide greater levels of abstraction or expression. As such, I plan on incorporating many of these themes in my future in-class projects as well.
