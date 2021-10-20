@@ -12,6 +12,3 @@ In the passage, Barthes discusses the philisophical underpinnings of photography
 ![soup.jpg]({{site.baseurl}}/assets/soup.jpg)
 
 The series of photos evoked almost a sense of otherworldliness in immersing the spectator immediately in a narrative Gerz crafted related to the photo. However, the associated texts did not simply describe the photo, but positioned it as a snapshot in time of a broader story occuring in the background. Some of the works of the French wall I found to be a bit confounding, especially the first couple of ones, which were more abstrac. However, I found the last couple to be similarly  intriguing as the text spun a story with no premise as if capturing a narrative in a moment in time, similar to the function of photographs.
-
-
-
