@@ -5,4 +5,4 @@ category: updates
 title: 'Night, street, lamp, drugstore - Project 3 ver 1'
 author: Bernice Sun
 ---
-![]({{site.baseurl}}/assets/Screen%20Shot%202021-10-20%20at%2002.46.34.png)![Screen Shot 2021-10-20 at 02.46.34.png]({{site.baseurl}}/assets/Screen Shot 2021-10-20 at 02.46.34.png)
+![Screen Shot 2021-10-20 at 02.46.34.png]({{site.baseurl}}/assets/Screen Shot 2021-10-20 at 02.46.34.png)
