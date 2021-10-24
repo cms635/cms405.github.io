@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-category: updates
+category: commentary
 title: Barthes and Sontag - response
 author: Alison Lanier
 tags:
