@@ -1,0 +1,10 @@
+---
+layout: post
+published: true
+category: commentary
+title: ''
+author: Hayley Ye
+tags:
+  - Week 8
+---
+Although the trends of of pictorialization, informalization, emotivization, and dynamicization are used by van Leeuwen and Djonov to explain kinetic typography, the concepts of these four trends have all been described in various chapters of Mccloud’s _Understanding Comics_ that we have read before. Although not explicitly described using the same terms, chapter 2 of _Understanding Comics_ explains how symbols convey more meaning visually than plain text, just like how pictorialization in kinetic typography can convey more meaning about the word or phrase. McCloud uses the Big Triangle of reality, meaning, and the picture plane to place symbols and pictorialization in the center, between meaning and reality. In chapter 6 of _Understanding Comics_, McCloud explains the progression over time of writing towards a more colloquial style, which can also be described as informalization. In a similar way, this informalization can also be represented as moving from the reality and meaning corners of McCloud’s Big Triangle towards the center. Emotivization brings us back to chapter 5 of _Understanding Comics_, in which McCloud shows how visual elements can convey emotion without telling us and explains the expressionist art movement when artists wanted to convey feelings through their work that can’t be seen in real life. The connection between van Leeuwen and Djonov’s trend of dynamicization and McCloud’s _Understanding Comics_ is not as clear as the other three, but McCloud does always seem to cover how people naturally progress towards movement and change over time, in search of a way to convey more meaning without losing too much of reality, towards the center of the Big Triangle. 
