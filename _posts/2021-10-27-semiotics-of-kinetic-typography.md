@@ -1,8 +1,11 @@
 ---
 layout: post
-published: false
-category: updates
+published: true
+category: commentary
 title: Semiotics of Kinetic Typography
+author: Annie Zhang
+tags:
+  - Week 8
 ---
 The ideas of pictorialization, informalization, emotivization, and dynamicization relate to other concepts we've explored in other readings. I found that pictorialization reminded me of the Cohn reading because the examples of the word "circular" going around in a circle shape or the word "help" vibrating to convey a sense of fear reminds me of conceptual metaphors. Specifically, the "circular" example is reminiscent of the english idiom of "going around in circles" and the "help" example is related to the english phrase of "trembling with fear". Both examples seem to rely on familiarity with these phrases + external context.
 
