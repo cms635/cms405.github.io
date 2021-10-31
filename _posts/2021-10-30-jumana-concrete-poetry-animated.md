@@ -6,7 +6,7 @@ title: Plenty of Fish in the Sea- Animated
 author: Jumana Almahmoud
 ---
 
-![Link to Video](https://youtu.be/F__30WNAFno)
+[Link to Video](https://youtu.be/F__30WNAFno)
 
 In this updated version, I animated the scene to tell the story of the text. I started by prototyping the flow of the animation on Powerpoint, which was a great prototyping tool! I noticed that moving all fish looked cluttered and confusing, so I decided to keep the main fish in place with "breathing like" animation.
 At first, I used Adobe Animate. It was not a success. My composition contained more text than "characters," and I needed a tool to give me more control over transitions and text animation. 
