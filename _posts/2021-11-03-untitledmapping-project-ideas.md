@@ -2,7 +2,7 @@
 layout: post
 published: true
 category: updates
-title: UntitledMapping Project Ideas
+title: Mapping Project Ideas
 author: Ethan Nevidomsky
 ---
 ![graphicdesign.jpeg]({{site.baseurl}}/assets/graphicdesign.jpeg)
